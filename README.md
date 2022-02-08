@@ -1,2 +1,1 @@
-# the-book
-Examples from "The Book"
+# Examples from "The Book"
