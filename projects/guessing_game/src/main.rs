@@ -20,7 +20,7 @@ fn main() {
             Ok(num) => num,
             Err(_) => {
                 println!("Not a number. Try again");
-                break
+                continue
             }
         };
     
